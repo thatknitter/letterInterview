@@ -15,7 +15,6 @@ namespace letterInterview
             {
                 lines = reader.ReadToEnd();
             }
-            //System.IO.StreamReader lines = new System.IO.StreamReader(@"C:\Users\owner\Documents\Visual Studio 2013\Projects\letterInterview\letterInterview\InterviewFile.csv");
             char[] delimiterChar = { ',' };
             String[] words = lines.Split(delimiterChar);
             foreach (string s in words)
