@@ -1,0 +1,6 @@
+c:\users\owner\documents\visual studio 2013\Projects\letterInterview\letterInterview\bin\Debug\letterInterview.exe.config
+c:\users\owner\documents\visual studio 2013\Projects\letterInterview\letterInterview\bin\Debug\letterInterview.exe
+c:\users\owner\documents\visual studio 2013\Projects\letterInterview\letterInterview\bin\Debug\letterInterview.pdb
+c:\users\owner\documents\visual studio 2013\Projects\letterInterview\letterInterview\obj\Debug\letterInterview.csprojResolveAssemblyReference.cache
+c:\users\owner\documents\visual studio 2013\Projects\letterInterview\letterInterview\obj\Debug\letterInterview.exe
+c:\users\owner\documents\visual studio 2013\Projects\letterInterview\letterInterview\obj\Debug\letterInterview.pdb
